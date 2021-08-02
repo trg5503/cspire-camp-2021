@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nubbins",
+        "type": "CAT",
+        "age": 1,
+        "image": "/img/nubbins.jpeg",
+        "adoptable": "July 20, 2021",
+        "summary": "She was found under a home with an broken tail that had to be surgically removed."
+    },
+    {
+        "name": "Coco",
+        "type": "HAMSTER",
+        "age": 48,
+        "image": "/img/coco.jpeg",
+        "adoptable": true,
+        "summary": "He was found in a sewer and is partially blind in one eye."
+    },
+    {
+        "name": "Jake",
+        "type": "DOG",
+        "age": 36,
+        "image": "/img/jake.jpeg",
+        "adoptable": true,
+        "summary": "He was found roaming downtown looking for food and has a limp."
+    }
+]

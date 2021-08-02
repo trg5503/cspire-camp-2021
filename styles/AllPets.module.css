@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+}
+
+.petsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.petsContainer > * {
+    margin: 10px;
+}

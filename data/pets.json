@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Nubbins",
+        "type": "CAT",
+        "age": 1,
+        "image": "/img/nubbins.jpeg",
+        "adoptable": "July 20, 2021",
+        "summary": "She was found under a home and her tail has been surgically removed.",
+        "long_description": "Nubbins is a one month old kitten who was found under a home with an broken tail that had to be surgically removed. Nubbins is currently in a foster home with six other cats, she also loves to play with her toys and other cats she stays with. Despite the fact of her injuries she been through Nubbins still finds happiness."
+    },
+    {
+        "name": "Coco",
+        "type": "HAMSTER",
+        "age": 48,
+        "image": "/img/coco.jpeg",
+        "adoptable": true,
+        "summary": "She was found behind a gas station and is partially blind in one eye.",
+        "long_description": "We recieved Coco after someone found her wandering aimlessly around the back of a gas station. It was quite unfortuante that he was blind in one eye, but this doesn't stop him from having all the fun he wants! He is just a bundle of joy waiting for somebody like you to share his happenies with! He even likes to cuddle!!! "
+    },
+    {
+        "name": "Jake",
+        "type": "DOG",
+        "age": 36,
+        "image": "/img/jake.jpeg",
+        "adoptable": true,
+        "summary": "He was found roaming downtown looking for food and has a limp.",
+        "long_description": "Jake is a very loving and caring dog. He enjoys playing with his toys, walking, making new friends with other animals and people. Jake is a 3 year old dog who is in the need for a new home making Jake apart of your home would make Jake a very happy and make him feel loved."
+    },
+    {
+        "name": "Buster",
+        "type": "DOG",
+        "age": 84,
+        "image": "/img/buster.jpeg",
+        "adoptable": true,
+        "summary": "He was found next to a bus stop and is partially deaf.",
+        "long_description": "he is a good boy"
+    },
+    {
+        "name": "Cyndy",
+        "type": "DOG",
+        "age": 120,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Carmen",
+        "type": "DOG",
+        "age": 12,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "Carmen is a very calm and sweet dog who's very smart and obedient. She's also very friendly and love children."
+    },
+    {
+        "name": "Bella",
+        "type": "DOG",
+        "age": 48,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "When Bella was still just a puppy, she was bit by an snake in the woods and left in pain to suffer. The snake led her to lose one of her legs due to an bad infection the snake caused. This dog was rescued from a challenging situation. Bella needs a lot of love and a new home to enjoy."
+    },
+    {
+        "name": "Kimbow",
+        "type": "DOG",
+        "age": 24,
+        "image": null,
+        "adoptable": true,
+        "summary": "It was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Scout",
+        "type": "LIZARD",
+        "age": 10,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "He was found out in the middle of the road with his tail runover by one of our volunteers.He is a great pet for anyone looking for a cold blooded buddy to play with because he sure likes to run!He is named scout for the very reason of how much he runs.Anyone willing to let this buddy in thier home, he is ready for you as well! "
+    },
+    {
+        "name": "Duke",
+        "type": "DOG",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Zues",
+        "type": "DOG",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "Zeues is a very talented dog who was abandoned from a circus and needs lots of love and energetic personality in his life."
+    },
+    {
+        "name": "Libby",
+        "type": "DOG",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Charlie",
+        "type": "DOG",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Cilla",
+        "type": "DOG",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Leo",
+        "type": "LIZARD",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "Leo is a great companion for those looking to travel.He has impaired hearing, so he makes air travel and other forms easy."
+    },
+    {
+        "name": "Zelda",
+        "type": "HAMSTER",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Shadow",
+        "type": "HAMSTER",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Furgie",
+        "type": "LIZARD",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Bebe",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "Bebe is a very lazy cat but enjoys cuddling with people. She also enjoys playing with her toys and needs lots of sweethearted love."
+    },
+    {
+        "name": "Pepper",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "Pepper is a very gentle dog who's very protective and loving who's looking for a new home."
+    },
+    {
+        "name": "Hans",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Beans",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Buttercup",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Patchouli",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Smockey",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "He was found [etc.]",
+        "long_description": "[insert about a paragraph worth of text describing this animal]"
+    },
+    {
+        "name": "Iggy",
+        "type": "CAT",
+        "age": 0,
+        "image": null,
+        "adoptable": true,
+        "summary": "She was found [etc.]",
+        "long_description": "Iggy is a small abandoned kitten who's kind, smart, cute, and loving who is looking for a special welcomed home."
+    }
+]

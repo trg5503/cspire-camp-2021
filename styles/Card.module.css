@@ -1,0 +1,19 @@
+.card {
+    border-radius: 10px;
+    background: white;
+    border: 1px gray solid;
+    overflow: hidden;
+}
+
+.card h2 {
+    line-height: 0.2em;
+}
+
+.cardLink:hover {
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+.text {
+    margin: 1em;
+}
