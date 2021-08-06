@@ -1,10 +1,10 @@
 # C Spire Camp 2021 Web Project
 
-This is the group project I was the coding specialist for at the 2021 C Spire camp. The files in this repo are exactly the same as how they were at the time of presentation, except for this `README.md` which was edited afterwards from the original `create-next-app` template.
+This is the group project I was the coding specialist for at the 2021 C Spire camp. The files in this branch (`improvements`) are improvements made to the website and code after the C Spire camp ended.`
 
 This project uses [Next.js](https://nextjs.org), an extension of the [React](https://reactjs.org) library created by Facebook. This was chosen because of the simplicity of quickly making multiple pages that share the same layout and styled components.
 
-*Demo: [https://cspire-camp-2021-trg5503.vercel.app](https://cspire-camp-2021-trg5503.vercel.app)*
+*[Click here to view the improved demo site](https://cspire-camp-2021-git-improvements-trg5503.vercel.app/)*
 
 ## Development Environment
 
@@ -15,6 +15,8 @@ To download the repo and install the required dependencies:
 ```bash
 $ git clone https://github.com/trg5503/cspire-camp-2021.git/
 $ cd cspire-camp-2021
+# (to switch to the improvements branch)
+$ git checkout improvements
 $ npm install
 ```
 
