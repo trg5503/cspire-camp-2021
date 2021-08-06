@@ -4,6 +4,8 @@ This is the group project I was the coding specialist for at the 2021 C Spire ca
 
 This project uses [Next.js](https://nextjs.org), an extension of the [React](https://reactjs.org) library created by Facebook. This was chosen because of the simplicity of quickly making multiple pages that share the same layout and styled components.
 
+*Demo: [https://cspire-camp-2021-trg5503.vercel.app](https://cspire-camp-2021-trg5503.vercel.app)*
+
 ## Development Environment
 
 You need [Git](https://git-scm.com), [Node.js](https://nodejs.org) and npm (which usually comes with the Node.js install) installed on your development machine to build and serve this website.
