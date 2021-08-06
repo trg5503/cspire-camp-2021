@@ -1,6 +1,6 @@
 # C Spire Camp 2021 Web Project
 
-This is the group project I was the coding specialist for at the 2021 C Spire camp. The files in this repo are exactly the same as how they were at the time of presentation, except for this `README.md` which was edited afterwards from the original `create-next-app` template.
+This is the group project I was the coding specialist for at the 2021 C Spire camp. The files in this repo are exactly the same as how they were at the time of presentation, except for this `README.md` which was edited afterwards from the original `create-next-app` template. To see the changes made *after* the camp ended, look at the [`improvements` branch](https://github.com/trg5503/cspire-camp-2021/tree/improvements) (changes made are in [`CHANGES.md`](https://github.com/trg5503/cspire-camp-2021/blob/improvements/CHANGES.md)).
 
 This project uses [Next.js](https://nextjs.org), an extension of the [React](https://reactjs.org) library created by Facebook. This was chosen because of the simplicity of quickly making multiple pages that share the same layout and styled components.
 
