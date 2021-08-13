@@ -24,8 +24,9 @@ export default function Home() {
         height: '550px'
       }}>
         <div className={styles.carouselArrow} onClick={() => setCarousel(carousel == 0 ? 2 : carousel - 1)} style={{
-          left: '0px'
-        }}>&lt;</div>
+          left: '0px',
+          background: 'linear-gradient(270deg, #00000000 0%, #00000055 100%)'
+        }}><span>&lt;</span></div>
         <div style={{
           width: '100%'
         }}>
@@ -47,8 +48,9 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.carouselArrow} onClick={() => setCarousel((carousel + 1) % 3)} style={{
-          right: '0px'
-        }}>&gt;</div>
+          right: '0px',
+          background: 'linear-gradient(90deg, #00000000 0%, #00000055 100%)'
+        }}><span>&gt;</span></div>
       </div>
       <a id="about-us" />
       <div className={styles.section}>

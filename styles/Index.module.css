@@ -29,6 +29,12 @@
     z-index: 1;
 }
 
+.carouselArrow > span {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 .description {
     font-size: large;
     line-height: 1.5em;
