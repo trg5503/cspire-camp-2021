@@ -24,7 +24,7 @@ export default function Home() {
         height: '550px'
       }}>
         <div className={styles.carouselArrow} onClick={() => setCarousel(carousel == 0 ? 2 : carousel - 1)} style={{
-          float: 'left'
+          left: '0px'
         }}>&lt;</div>
         <div style={{
           width: '100%'
@@ -47,7 +47,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.carouselArrow} onClick={() => setCarousel((carousel + 1) % 3)} style={{
-          float: 'right'
+          right: '0px'
         }}>&gt;</div>
       </div>
       <a id="about-us" />

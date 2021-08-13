@@ -19,12 +19,14 @@
 
 .carouselArrow {
     width: 50px;
-    height: 50px;
+    height: 550px;
     background: #00000033;
     color: white;
     font-size: 40px;
     text-align: center;
     cursor: pointer;
+    position: absolute;
+    z-index: 1;
 }
 
 .description {
